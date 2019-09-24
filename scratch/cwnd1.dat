@@ -1,0 +1,50 @@
+Waf: Entering directory `/home/newuser/NS3/source/ns-3.29/build'
+[907/910] Compiling tcp-variants-comparison.cc
+[908/910] Compiling fifth.cc
+[909/910] Linking ../build/scratch/fifth
+[910/910] Linking ../build/scratch/tcp-variants-comparison
+Waf: Leaving directory `/home/newuser/NS3/source/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (4.314s)
+1.00419	536
+1.0093	1072
+RxDrop at 1.01225
+RxDrop at 1.01319
+2.0093	536
+2.21433	1072
+RxDrop at 2.21728
+RxDrop at 2.24344
+3.21433	536
+3.21936	1072
+3.21936	1340
+RxDrop at 3.22231
+RxDrop at 3.23838
+4.21936	536
+4.22439	1072
+4.22439	1340
+RxDrop at 4.22734
+RxDrop at 4.22828
+5.22439	536
+RxDrop at 5.22734
+RxDrop at 7.22734
+11.4294	1072
+RxDrop at 11.4333
+RxDrop at 11.6374
+12.6345	536
+12.8395	1072
+12.8455	1340
+RxDrop at 12.8484
+RxDrop at 12.8544
+13.8455	536
+13.8505	1072
+13.8505	1340
+RxDrop at 13.8534
+RxDrop at 13.8746
+14.8505	536
+RxDrop at 14.8534
+16.8555	1072
+16.8555	1340
+RxDrop at 16.8585
+RxDrop at 16.8594
+17.8555	536
+RxDrop at 17.8585
