@@ -16,4 +16,4 @@ while(True):
 		inp = raw_input("Enter your message to be sent: ")
 		# print inp
 		c.send(str(inp))
-	c.clos()
+	c.close()
